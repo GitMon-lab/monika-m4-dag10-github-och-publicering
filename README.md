@@ -4,12 +4,17 @@ _En enkel webbsida som vi ändrat och laborerat med under kursen HTML/CSS/GIT un
 
 ## Live-sida
 
-Du kan besöka den färdiga sajten här: https://github.com/GitMon-lab/monika-m4-dag10-github-och-publicering)
-(https://github.com/GitMon-lab/monika-m4-dag10-github-och-publicering)
+Du kan besöka den färdiga sajten här: https://gitmon-lab.github.io/monika-m4-dag10-github-och-publicering/
 
 ## Tekniker som har använts
 
 - HTML
 - CSS
 
-![Skärmbild på gitignore](images/gitignore.png)
+<br>
+
+<br>
+
+## Gitignore
+
+![Skärmbild på gitignore 2](../images/ignorefiles.png)
