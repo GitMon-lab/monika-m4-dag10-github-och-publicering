@@ -17,4 +17,4 @@ Du kan besöka den färdiga sajten här: https://gitmon-lab.github.io/monika-m4-
 
 ## Gitignore
 
-![Skärmbild på gitignore 2](../images/ignorefiles.png)
+![Skärmbild på gitignore](images/screendump.png)
